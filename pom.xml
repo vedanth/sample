@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>modules.hibernate</groupId>
   <artifactId>hib-dependency</artifactId>
-  <version>2.0</version>
+  <version>3.0-SNAPSHOT</version>
   <name>hib-dependency</name>
 
   <dependencies>
@@ -52,9 +52,9 @@
   </build>
 
  <scm>
-	<connection>scm:git:git@github.com:vedanth/git-demo.git</connection>
-	<url>scm:git:git@github.com:vedanth/git-demo.git</url>
-	<developerConnection>scm:git:git@github.com:vedanth/git-demo.git</developerConnection>
+	<connection>scm:git:git@github.com:vedanth/sample.git</connection>
+	<url>scm:git:git@github.com:vedanth/sample.git</url>
+	<developerConnection>scm:git:git@github.com:vedanth/sample.git</developerConnection>
   </scm>
 
   <properties>
