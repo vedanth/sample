@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>modules.hibernate</groupId>
   <artifactId>hib-dependency</artifactId>
-  <version>3.3</version>
+  <version>3.4-SNAPSHOT</version>
   <name>hib-dependency</name>
 
   <dependencies>
